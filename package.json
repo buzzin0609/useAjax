@@ -1,0 +1,29 @@
+{
+  "name": "use-ajax",
+  "version": "0.0.1",
+  "description": "A React Hook for making AJAX requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "catchify": "^2.6.1",
+    "react": "^16.7.0-alpha.2",
+    "superagent": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^23.3.10",
+    "@types/node": "^10.12.15",
+    "@types/react": "^16.7.17",
+    "@types/sinon": "^7.0.0",
+    "@types/superagent": "^3.8.5",
+    "jest": "^23.6.0",
+    "prettier": "^1.15.3",
+    "react-testing-library": "latest",
+    "sinon": "latest",
+    "ts-jest": "^23.10.5",
+    "typescript": "^3.2.2"
+  }
+}
